@@ -5,10 +5,17 @@ Step 3: Create the website to allow user to enter the input data.
 
 All Ml concepts like data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tunning,
 k fold cross validation etc are used to build the model. Technology and tools wise this project covers,
+
     1. Python
+    
     2. Numpy and Pandas for data cleaning
+    
     3. Matplotlib for data visualization
+    
     4. Sklearn for model building
+    
     5. Jupyter notebook, visual studio code and pycharm as IDE
+    
     6. Python flask for http server
+    
     7. HTML/CSS/Javascript for UI
